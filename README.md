@@ -1,2 +1,4 @@
-# Huevana – AI-Powered Inclusive Skincare Recommendation App
-Personalized skincare for every tone and type. Built by Sai Teja Nagapuri 🚀
+# Huevana
+AI-Powered Inclusive Skincare Recommendation App.
+
+Built by Sai Teja Nagapuri. Powered by GPT, ML, and love for inclusive beauty. 💅🧴
